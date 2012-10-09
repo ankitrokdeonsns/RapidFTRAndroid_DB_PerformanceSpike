@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+
+    <Button
+            android:id="@+id/SQL_CIPHER_BUTTON"
+            android:layout_width="277dp"
+            android:layout_height="wrap_content"
+            android:text="SQL Cipher Stats"/>
+
+    <Button
+            android:id="@+id/SQLITE_BUTTON"
+            android:layout_width="277dp"
+            android:layout_height="wrap_content"
+            android:text="SQLite Stats"/>
+
+</LinearLayout>
